@@ -118,6 +118,7 @@ body {
     font-weight: bolder;
     font-family: 'roboto';
     font-size: 36px;
+    padding-bottom: 2%;
 }
 
 .liz-img {
@@ -131,6 +132,7 @@ body {
     font-weight: bold;
     font-size: 26px;
     margin-bottom: 20px;
+    padding-bottom: 2%;
 }
 
 /* portfolio section */
