@@ -24,7 +24,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/elizabethdberube/portfolio-page.git"
+    "url": "https://github.com/elizabethdberube/portfolio-page"
   },
   "eslintConfig": {
     "extends": [
