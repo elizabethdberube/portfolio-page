@@ -187,6 +187,7 @@ body {
 .text-3 {
     font-weight: 600;
     color: var(--aqua);
+    padding-left: 10px;
     padding-top: 20px;
     width: 325px;
 }
@@ -227,12 +228,13 @@ form {
     font-size: 24px;
     margin-left: 15%;
     margin-top: 10px;
+    margin-bottom: 150px;
 }
 
 #resume {
     background-color: var(--headerGreen);
     color: var(--light);
-    margin-bottom: 150px
+    margin-bottom: 150px;
 }
 
 /* footer */
@@ -259,7 +261,7 @@ form {
     font-size: 18px;
     font-weight: bolder;
     font-family: 'roboto';
-    padding-top: 10px;
+    padding-top: 5px;
     padding-right: 10px;
     color: var(--lightPink);
 }
@@ -459,6 +461,7 @@ form {
         font-weight: bolder;
         font-size: 18px;
         color: var(--aqua);
+        padding-left: 5px;
         padding-top: 5px;
         width: 200px;
     }
@@ -504,12 +507,13 @@ form {
     .footer {
 
         display: flex;
-        flex-direction: column;
+        flex-direction: row;
         margin-bottom: 0;
         margin-top: 0;
         padding-top: 5px;
+
         background-color: var(--gray-dark);
-        height: 10vh;
+        height: 5vh;
         bottom: 0;
         width: 100%;
         position: fixed;
@@ -523,6 +527,7 @@ form {
         flex-direction: row;
         justify-content: center;
         font-size: 18px;
+        padding-left: 5px;
         font-weight: bolder;
         font-family: 'roboto';
         padding-top: 2px;
