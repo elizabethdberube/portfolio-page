@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "/portfolio-page/static/js/main.89a45592.js",
+    "static/media/notes.png": "/portfolio-page/static/media/notes.70278a91bc050ea5cac8.png",
+    "static/media/photo.png": "/portfolio-page/static/media/photo.1fa1a5afb3da2642188c.png",
+    "static/media/cinema.jpg": "/portfolio-page/static/media/cinema.cf4b0c41947c25974404.jpg",
+    "static/media/blog.jpg": "/portfolio-page/static/media/blog.ac1c3193c2f16c495914.jpg",
+    "static/media/editor.jpeg": "/portfolio-page/static/media/editor.b2ed7bf8a7e2b61080a8.jpeg",
+    "static/media/music.jpg": "/portfolio-page/static/media/music.327e65d47945b35415a0.jpg",
+    "static/media/weather.jpg": "/portfolio-page/static/media/weather.f065011acbce09acc872.jpg",
+    "index.html": "/portfolio-page/index.html",
+    "main.89a45592.js.map": "/portfolio-page/static/js/main.89a45592.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.89a45592.js"
+  ]
+}
