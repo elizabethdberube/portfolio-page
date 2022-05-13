@@ -212,6 +212,10 @@ body {
 }
 
 /* contact section*/
+.formDiv {
+    margin-bottom: 30%;
+}
+
 form {
     font-weight: bolder;
     font-family: 'roboto';
@@ -219,7 +223,7 @@ form {
     width: 70%;
     margin-left: 15%;
     margin-top: 5%;
-    margin-bottom: 35%;
+    margin-bottom: 20px;
 }
 
 .error-text {
@@ -228,7 +232,8 @@ form {
     font-size: 24px;
     margin-left: 15%;
     margin-top: 10px;
-    margin-bottom: 150px;
+
+
 }
 
 #resume {
